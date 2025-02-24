@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.ar.city",
+      "package_name": "com.bcp.bank",
       "sha256_cert_fingerprints": ["XX:XX:XX:XX:XX:XX:XX:XX"]
     }
   }
